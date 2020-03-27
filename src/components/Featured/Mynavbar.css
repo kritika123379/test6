@@ -1,0 +1,8 @@
+.w3-button {
+    background-color: #008CBA
+  }
+  
+  .w3-button:hover {
+    background-color:blue;
+    color: white
+  }
